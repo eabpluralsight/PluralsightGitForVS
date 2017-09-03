@@ -19,6 +19,7 @@ namespace VS_2013_Demo
 
             //Commit to local repo
             //Second local commit
+            //Last local commit before push to remote repo
         }
     }
 }
