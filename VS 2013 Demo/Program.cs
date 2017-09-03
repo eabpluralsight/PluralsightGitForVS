@@ -18,6 +18,7 @@ namespace VS_2013_Demo
             //Changes using VS2013 built in Git functionality
 
             //Commit to local repo
+            //Second local commit
         }
     }
 }
