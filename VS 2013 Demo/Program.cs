@@ -22,6 +22,7 @@ namespace VS_2013_Demo
             //Last local commit before push to remote repo
 
             //Feature 1.3 change
+            //Additional 1.3 change
         }
     }
 }
