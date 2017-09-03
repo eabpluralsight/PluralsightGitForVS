@@ -15,6 +15,7 @@ namespace VS_2013_Demo
 
             //master changes
             //these changes will be stashed
+            //Changes using VS2013 built in Git functionality
         }
     }
 }
